@@ -1,12 +1,12 @@
 # EduTrack API
 
-EduTrack is a student management system that provides RESTful APIs for managing courses, students, and attendance.
+EduTrack is a student management system that provides RESTful APIs for managing courses, students, and attendance in works locally
 
 ## API Documentation
 
 The API is documented using **Swagger UI**.
 
-- 📄 **Swagger UI**: [https://api.edutrack.com/swagger-ui/]([https://localhost:8091/swagger-ui/](http://localhost:8091/swagger-ui/))
-- 📄 **API Docs (JSON)**: [https://api.edutrack.com/v3/api-docs](https://localhost:8091/v3/api-docs)
+- 📄 **Swagger UI**: http://localhost:8091/swagger-ui/
+- 📄 **API Docs (JSON)**: http://localhost:8091/v2/api-docs
 
 To access Swagger locally, run the application and visit:
